@@ -1,0 +1,23 @@
+Head													
+InvoiceNo	FreightBillNo	ShipDate	BillDate	ShipperName	ShipperAddress	ShipperCity	ShipperState	ShipperZip	ConsigneeName	ConsigneeAddress	ConsigneeCity	ConsigneeState	ConsigneeZip
+100001	FB001	1/10/2024	1/12/2024	Acme Corp	123 Elm St	New York	NY	10001	Global Supplies	456 Oak St	Los Angeles	CA	90001
+100002	FB002	1/11/2024	1/13/2024	Acme Corp	123 Elm St	New York	NY	10001	Metro Retail	789 Pine St	Chicago	IL	60601
+100003	FB003	1/12/2024	1/14/2024	Acme Corp	123 Elm St	New York	NY	10001	Quick Traders	321 Maple St	Toronto	ON	M5H 2N2
+100004	FB004	1/13/2024	1/15/2024	Acme Corp	123 Elm St	New York	NY	10001	Universal Goods	654 Cedar St	Sydney	NSW	2000
+100005	FB005	1/14/2024	1/16/2024	Acme Corp	123 Elm St	New York	NY	10001	Bright Supplies	987 Birch St	London	ENG	W1B 5BT
+100006	FB006	1/15/2024	1/17/2024	Acme Corp	123 Elm St	New York	NY	10001	Prime Logistics	135 Walnut St	Munich	BY	80333
+100007	FB007	1/16/2024	1/18/2024	Acme Corp	123 Elm St	New York	NY	10001	Swift Delivery	246 Cherry St	Mumbai	MH	400001
+100008	FB008	1/17/2024	1/19/2024	Acme Corp	123 Elm St	New York	NY	10001	Fast Movers	357 Poplar St	Cape Town	WC	8001
+100009	FB009	1/18/2024	1/20/2024	Acme Corp	123 Elm St	New York	NY	10001	Eagle Express	468 Spruce St	San Diego	CA	92101
+100010	FB010	1/19/2024	1/21/2024	Acme Corp	123 Elm St	New York	NY	10001	Smart Shipping	579 Palm St	Tokyo	TK	100-0001
+100011	FB011	1/20/2024	1/22/2024	Acme Corp	123 Elm St	New York	NY	10001	Alpha Freight	680 Redwood St	Boston	MA	2101
+100012	FB012	1/21/2024	1/23/2024	Acme Corp	123 Elm St	New York	NY	10001	Omega Shipping	791 Aspen St	Paris	IDF	75001
+100013	FB013	1/22/2024	1/24/2024	Acme Corp	123 Elm St	New York	NY	10001	Express Lane	802 Magnolia St	Philadelphia	PA	19101
+100014	FB014	1/23/2024	1/25/2024	Acme Corp	123 Elm St	New York	NY	10001	Allied Transport	913 Cypress St	Sao Paulo	SP	01000-000
+100015	FB015	1/24/2024	1/26/2024	Acme Corp	123 Elm St	New York	NY	10001	Reliable Movers	124 Dogwood St	Beijing	BJ	100000
+100016	FB016	1/25/2024	1/27/2024	Acme Corp	123 Elm St	New York	NY	10001	Next Day Freight	235 Hickory St	Austin	TX	73301
+100017	FB017	1/26/2024	1/28/2024	Acme Corp	123 Elm St	New York	NY	10001	Cargo Solutions	346 Beech St	Dubai	DU	0
+100018	FB018	1/27/2024	1/29/2024	Acme Corp	123 Elm St	New York	NY	10001	Titan Freight	457 Chestnut St	Charlotte	NC	28201
+100019	FB019	1/28/2024	1/30/2024	Acme Corp	123 Elm St	New York	NY	10001	Zenith Logistics	568 Fir St	Nairobi	NR	100
+100020	FB020	1/29/2024	1/31/2024	Acme Corp	123 Elm St	New York	NY	10001	Dynamic Shipping	679 Linden St	Auckland	AKL	1010
+Tail													

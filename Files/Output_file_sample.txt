@@ -1,0 +1,61 @@
+CNT 20
+INV 100001                        ~20240110          ~FB001                         ~20240112
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG GLOBAL SUPPLIES               ~456 OAK ST                         ~LOS ANGELES                   ~CA ~90001     ~US 
+INV 100002                        ~20240111          ~FB002                         ~20240113
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG METRO RETAIL                  ~789 PINE ST                        ~CHICAGO                       ~IL ~60601     ~US 
+INV 100003                        ~20240112          ~FB003                         ~20240114
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG QUICK TRADERS                 ~321 MAPLE ST                       ~TORONTO                       ~ON ~M5H 2N2   ~CA 
+INV 100004                        ~20240113          ~FB004                         ~20240115
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG UNIVERSAL GOODS               ~654 CEDAR ST                       ~SYDNEY                        ~NSW~2000      ~AU 
+INV 100005                        ~20240114          ~FB005                         ~20240116
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG BRIGHT SUPPLIES               ~987 BIRCH ST                       ~LONDON                        ~ENG~W1B 5BT   ~GB 
+INV 100006                        ~20240115          ~FB006                         ~20240117
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG PRIME LOGISTICS               ~135 WALNUT ST                      ~MUNICH                        ~BY ~80333     ~DE 
+INV 100007                        ~20240116          ~FB007                         ~20240118
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG SWIFT DELIVERY                ~246 CHERRY ST                      ~MUMBAI                        ~MH ~400001    ~IN 
+INV 100008                        ~20240117          ~FB008                         ~20240119
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG FAST MOVERS                   ~357 POPLAR ST                      ~CAPE TOWN                     ~WC ~8001      ~ZA 
+INV 100009                        ~20240118          ~FB009                         ~20240120
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG EAGLE EXPRESS                 ~468 SPRUCE ST                      ~SAN DIEGO                     ~CA ~92101     ~US 
+INV 100010                        ~20240119          ~FB010                         ~20240121
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG SMART SHIPPING                ~579 PALM ST                        ~TOKYO                         ~TK ~100-0001  ~JP 
+INV 100011                        ~20240120          ~FB011                         ~20240122
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG ALPHA FREIGHT                 ~680 REDWOOD ST                     ~BOSTON                        ~MA ~2101      ~US 
+INV 100012                        ~20240121          ~FB012                         ~20240123
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG OMEGA SHIPPING                ~791 ASPEN ST                       ~PARIS                         ~IDF~75001     ~FR 
+INV 100013                        ~20240122          ~FB013                         ~20240124
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG EXPRESS LANE                  ~802 MAGNOLIA ST                    ~PHILADELPHIA                  ~PA ~19101     ~US 
+INV 100014                        ~20240123          ~FB014                         ~20240125
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG ALLIED TRANSPORT              ~913 CYPRESS ST                     ~SAO PAULO                     ~SP ~01000-000 ~BR 
+INV 100015                        ~20240124          ~FB015                         ~20240126
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG RELIABLE MOVERS               ~124 DOGWOOD ST                     ~BEIJING                       ~BJ ~100000    ~CN 
+INV 100016                        ~20240125          ~FB016                         ~20240127
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG NEXT DAY FREIGHT              ~235 HICKORY ST                     ~AUSTIN                        ~TX ~73301     ~US 
+INV 100017                        ~20240126          ~FB017                         ~20240128
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG CARGO SOLUTIONS               ~346 BEECH ST                       ~DUBAI                         ~DU ~0         ~AE 
+INV 100018                        ~20240127          ~FB018                         ~20240129
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG TITAN FREIGHT                 ~457 CHESTNUT ST                    ~CHARLOTTE                     ~NC ~28201     ~US 
+INV 100019                        ~20240128          ~FB019                         ~20240130
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG ZENITH LOGISTICS              ~568 FIR ST                         ~NAIROBI                       ~NR ~100       ~KE 
+INV 100020                        ~20240129          ~FB020                         ~20240131
+SHI ACME CORP                     ~123 ELM ST                         ~NEW YORK                      ~NY ~10001     ~US 
+CNG DYNAMIC SHIPPING              ~679 LINDEN ST                      ~AUCKLAND                      ~AKL~1010      ~NZ 
